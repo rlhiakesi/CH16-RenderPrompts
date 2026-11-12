@@ -1,0 +1,3 @@
+Render CH16-P017 using page.json and supplied Assets/. Full-color realistic manga, exact geometry and canonical character references. No lettering, bubbles, panel numbers, folios or English in base artwork. Keep a separate transparent lettering overlay for CSP and exact text TXT. Use deterministic pixel compositing for the approved panel layout.
+
+CONTINUITY OVERRIDE: Nyssara appears only as the same translucent, ghostlike shared vision established on Pages 15-16. She is nonphysical, produces no harmful ambient mana, and cannot touch or manipulate objects. Her disappearance is a fading of the shared vision, not a physical exit.
